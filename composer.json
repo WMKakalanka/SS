@@ -1,0 +1,16 @@
+{
+    "name": "kaveen/ss",
+    "description": "cw4",
+    "autoload": {
+        "psr-4": {
+            "Kaveen\\Ss\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kaveen akalanka",
+            "email": "kaveenakalanka200103051000@gmail.com"
+        }
+    ],
+    "require": {}
+}
