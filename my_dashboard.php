@@ -49,7 +49,7 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role_id'] !== 2) {
 <body class="flex items-center justify-center min-h-screen text-white">
     <div class="bg-gray-900 bg-opacity-80 p-8 rounded-xl shadow-2xl max-w-md w-full">
         <h1 class="text-3xl font-bold text-center mb-6">Welcome, <?php echo htmlspecialchars($_SESSION['username']); ?>!</h1>
-        <p class="text-center text-gray-300 mb-8">This is your dashboard. Here you can manage your account.</p>
+        <p class="text-center text-gray-300 mb-8">This is your dashboard. Now can you manage your account.</p>
 
         <div class="space-y-4">
             <a href="./profile.php" class="block w-full py-3 bg-blue-600 text-white font-semibold rounded-lg text-center hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 transition duration-300">View Profile</a>
