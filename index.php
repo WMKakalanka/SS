@@ -59,7 +59,7 @@ $isLoggedIn = isset($_SESSION['user_id']);
         
         <!-- Right Section: Image -->
         <div class="w-1/2 p-6">
-            <img src="cyber.jpg" alt="Secure Authentication" class="rounded-lg shadow-lg transform hover:scale-105 transition duration-300">
+            <img src="cyber.webp" alt="Secure Authentication" class="rounded-lg shadow-lg transform hover:scale-105 transition duration-300">
         </div>
     </div>
     
