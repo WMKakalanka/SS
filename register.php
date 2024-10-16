@@ -8,7 +8,7 @@
     <style>
       /* Custom background color for the whole page */
       body {
-            background-image: url('register.JPG'); /* Replace with your image path */
+            background-image: url('register.jpg'); /* Replace with your image path */
             background-color: #000; /* Fallback for browsers that do not support images */
             background-size: cover; /* Cover the entire background */
             background-position: center; /* Center the image */
